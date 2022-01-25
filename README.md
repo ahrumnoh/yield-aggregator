@@ -3,8 +3,3 @@ This project is a simple decentrialized app where a user can deposit DAI into ou
 Once funds are deposited, the contract compares the interest rate of Compound & Aave, and deposits
 funds to whichever has the highest interest rate. The user can rebalance his/her funds to ensure
 that the funds are still currently in the higher interest rate protocol, and can also withdraw at any time.
-
-## Technology Stack & Tools
-
-- Solidity,Javascript (React & Testing),Web3,Truffle,Ganache-cli etc
-
